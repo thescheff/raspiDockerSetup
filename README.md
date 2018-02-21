@@ -12,3 +12,4 @@ sudo update-rc.d ssh enable
 ```
 
 # setup docker
+https://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi/
